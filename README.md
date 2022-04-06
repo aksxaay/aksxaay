@@ -23,4 +23,4 @@ Join ºdissonance \
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/aksxaay)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksxaay&layout=compact&theme=midnight-purple)](https://github.com/aksxaay)
