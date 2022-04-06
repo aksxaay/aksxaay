@@ -1,7 +1,7 @@
 ºwasssuh I go by **ºjua**
 _ºwreak havoc_
 
-Join ºdissonance
+Join ºdissonance \
 [ºdissonance discord](https://discord.gg/b7d92v8)
 
 ---
