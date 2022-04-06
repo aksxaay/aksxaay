@@ -15,10 +15,10 @@ Join ºdissonance
 ---
 
 
-[![jua](https://github-readme-stats.vercel.app/api?username=aksxaay&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![jua](https://github-readme-stats.vercel.app/api?username=aksxaay&show_icons=true&theme=midnight-purple)](https://github.com/aksxaay)
 
 
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/aksxaay)
