@@ -1,3 +1,12 @@
+<!-- 
+RESOURCES
+https://shields.io/
+https://github.com/moepoi/moepoi/blob/master/README.md
+https://simpleicons.org/
+https://www.urlencoder.org/
+-->
+
+
 ºwasssuh I go by **ºjua**
 _ºwreak havoc_
 
