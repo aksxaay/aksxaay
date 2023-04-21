@@ -7,15 +7,17 @@ https://www.urlencoder.org/
 -->
 
 
-ºwasssuh I go by **ºjua**
+heyy, I go by **ºjua**
 _ºwreak havoc_
 
-Join ºdissonance \
+Join ºdissonance my design firm \
 [ºdissonance discord](https://discord.gg/b7d92v8)
 
 ---
 
 **Socials**
+[aksxaay.dev | Personal Dev Portfolio](https://www.aksxaay.dev/)
+
 [linktree](https://linktr.ee/juanweeb)
 
 [juanweeb // Twitter](https://twitter.com/juanweeb)
