@@ -16,7 +16,6 @@ Join ºdissonance my design firm \
 ---
 
 **Socials**
-[aksxaay.dev | Personal Dev Portfolio](https://www.aksxaay.dev/)
 
 [linktree](https://linktr.ee/juanweeb)
 
